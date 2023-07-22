@@ -10,6 +10,11 @@
     width: 10%;
 }
 
+.no{
+    display: block;
+    width: 10%;
+}
+
 .divw {
     height: 100vh;
     width: 100%;
